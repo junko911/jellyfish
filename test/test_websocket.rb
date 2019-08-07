@@ -1,4 +1,3 @@
-
 require 'jellyfish/test'
 require 'stringio'
 
